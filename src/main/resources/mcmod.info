@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nyxion",
+  "name": "NyxionX",
+  "description": "Nice mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NyxionXTeam"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

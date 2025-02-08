@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "me.nyxion.mixins",
+  "refmap": "mixins.nyxion.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinMinecraft",
+    "MixinGuiNewChat",
+    "MixinEntityPlayerSP",
+    "MixinGuiMainMenu"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
